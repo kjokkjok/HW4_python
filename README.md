@@ -1,5 +1,5 @@
 ## The rep contains python HW №4
-### **Graph_vis()** method construts graph in dot format for further visualization
+### **Graph_vis( )** method construts graph in dot format for further visualization
 
 Method takes two arguments: 
 
